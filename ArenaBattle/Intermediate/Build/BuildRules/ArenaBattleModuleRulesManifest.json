@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UECPP\\ArenaBattle\\Source\\ArenaBattle\\ArenaBattle.Build.cs",
+		"C:\\UECPP\\ArenaBattle\\Source\\ArenaBattle.Target.cs",
+		"C:\\UECPP\\ArenaBattle\\Source\\ArenaBattleEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
